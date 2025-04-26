@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "mtcs-pankaj"
+  },
+  "targets": {
+    "mtcs-pankaj": {
+      "hosting": {
+        "monkeyTarget": [
+          "monkey-type-game"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
